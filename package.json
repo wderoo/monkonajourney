@@ -6,6 +6,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "next dev --turbo",
+    "dev:db": "pocketbase serve",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
